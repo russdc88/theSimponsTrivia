@@ -1,13 +1,13 @@
 {
-  "main.css": "/simpsons/static/css/main.6d910df2.chunk.css",
-  "main.js": "/simpsons/static/js/main.dc0ca241.chunk.js",
-  "main.js.map": "/simpsons/static/js/main.dc0ca241.chunk.js.map",
-  "static/js/1.fa92c112.chunk.js": "/simpsons/static/js/1.fa92c112.chunk.js",
-  "static/js/1.fa92c112.chunk.js.map": "/simpsons/static/js/1.fa92c112.chunk.js.map",
-  "runtime~main.js": "/simpsons/static/js/runtime~main.b9ab5261.js",
-  "runtime~main.js.map": "/simpsons/static/js/runtime~main.b9ab5261.js.map",
-  "static/css/main.6d910df2.chunk.css.map": "/simpsons/static/css/main.6d910df2.chunk.css.map",
-  "index.html": "/simpsons/index.html",
-  "precache-manifest.1604ea9ddc85f2e04c4b6a27780cc139.js": "/simpsons/precache-manifest.1604ea9ddc85f2e04c4b6a27780cc139.js",
-  "service-worker.js": "/simpsons/service-worker.js"
+  "main.css": "/theSimponsTrivia/static/css/main.6d910df2.chunk.css",
+  "main.js": "/theSimponsTrivia/static/js/main.dc0ca241.chunk.js",
+  "main.js.map": "/theSimponsTrivia/static/js/main.dc0ca241.chunk.js.map",
+  "static/js/1.fa92c112.chunk.js": "/theSimponsTrivia/static/js/1.fa92c112.chunk.js",
+  "static/js/1.fa92c112.chunk.js.map": "/theSimponsTrivia/static/js/1.fa92c112.chunk.js.map",
+  "runtime~main.js": "/theSimponsTrivia/static/js/runtime~main.d118215d.js",
+  "runtime~main.js.map": "/theSimponsTrivia/static/js/runtime~main.d118215d.js.map",
+  "static/css/main.6d910df2.chunk.css.map": "/theSimponsTrivia/static/css/main.6d910df2.chunk.css.map",
+  "index.html": "/theSimponsTrivia/index.html",
+  "precache-manifest.5dea8f7955d66e27dd9d934f9b62b9ba.js": "/theSimponsTrivia/precache-manifest.5dea8f7955d66e27dd9d934f9b62b9ba.js",
+  "service-worker.js": "/theSimponsTrivia/service-worker.js"
 }

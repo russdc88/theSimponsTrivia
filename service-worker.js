@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/simpsons/precache-manifest.1604ea9ddc85f2e04c4b6a27780cc139.js"
+  "/theSimponsTrivia/precache-manifest.5dea8f7955d66e27dd9d934f9b62b9ba.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/simpsons/index.html", {
+workbox.routing.registerNavigationRoute("/theSimponsTrivia/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
