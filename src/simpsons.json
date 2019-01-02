@@ -1,0 +1,98 @@
+[
+	{
+		"id": 1,
+		"name": "Homer Simpson",
+		"image": "https://vignette.wikia.nocookie.net/simpsons/images/0/02/Homer_Simpson_2006.png/revision/latest/top-crop/width/200/height/150?cb=20091207194310",
+		"clickedon": false	
+	},
+	{
+		"id": 2,
+		"name": "Edna Krabappel",
+		"image": "https://vignette.wikia.nocookie.net/simpsons/images/7/76/Edna_Krabappel.png/revision/latest/top-crop/width/200/height/150?cb=20180723220624",
+		"clickedon": false
+	},
+	{
+		"id": 3,
+		"name": "Clancy Wiggum",
+		"image": "https://vignette.wikia.nocookie.net/simpsons/images/8/8b/Simpsonsworld_social_og_wiggum_1200x1200.jpg/revision/latest/top-crop/width/200/height/150?cb=20180204012916",
+		"clickedon": false
+	},
+	{
+		"id": 4,
+		"name": "Comic Book Guy",
+		"image":"https://vignette.wikia.nocookie.net/simpsons/images/9/9c/IMG_6116.jpg/revision/latest/scale-to-width-down/250?cb=20161030093222",
+		"clickedon": false
+	},
+	{
+		"id": 5,
+		"name": "Bart Simpson",
+		"image": "https://vignette.wikia.nocookie.net/simpsons/images/b/bd/Bart-simpson-bartman.gif/revision/latest/scale-to-width-down/180?cb=20060205065156",
+		"clickedon": false
+	},
+	{
+		"id": 6,
+		"name": "Marge Simpson",
+		"image": "https://vignette.wikia.nocookie.net/simpsons/images/b/b4/Glasses.png/revision/latest/scale-to-width-down/180?cb=20140323083040",
+		"clickedon": false
+	},
+	{
+		"id": 7,
+		"name": "Martin Prince",
+		"image": "https://vignette.wikia.nocookie.net/simpsons/images/b/b0/Vlcsnap-2014-12-08-22h19m22s222.png/revision/latest/scale-to-width-down/185?cb=20141209044428",
+		"clickedon": false
+	},
+	{
+		"id": 8,
+		"name": "Frank Grimes",
+		"image": "https://vignette.wikia.nocookie.net/simpsons/images/7/70/Enemy19.png/revision/latest/scale-to-width-down/185?cb=20140826211846",
+		"clickedon": false
+	},
+	{
+		"id": 9,
+		"name": "Barney Gumble",
+		"image": "https://vignette.wikia.nocookie.net/simpsons/images/9/9c/Barneypic.jpg/revision/latest/scale-to-width-down/185?cb=20170406171331",
+		"clickedon": false
+	},
+	{
+		"id": 10,
+		"name": "Gil Gunderson",
+		"image": "https://vignette.wikia.nocookie.net/simpsons/images/b/b3/Gil.jpg/revision/latest/scale-to-width-down/185?cb=20100829170031",
+		"clickedon": false
+	},
+	{
+		"id": 11,
+		"name": "Milhouse Van Houten",
+		"image": "https://vignette.wikia.nocookie.net/simpsons/images/9/94/Lisa%27s_Date_with_Density_164.JPG/revision/latest/scale-to-width-down/185?cb=20170304050513",
+		"clickedon": false
+	},
+	{
+		"id": 12,
+		"name": "Nelson Muntz",
+		"image": "https://vignette.wikia.nocookie.net/simpsons/images/f/f5/Humiliation.jpg/revision/latest/scale-to-width-down/185?cb=20170322044523",
+		"clickedon": false
+	},
+	{
+		"id": 13,
+		"name": "Seymour Skinner",
+		"image": "https://vignette.wikia.nocookie.net/simpsons/images/7/76/Inbathroom.jpg/revision/latest/scale-to-width-down/180?cb=20170407172328",
+		"clickedon": false
+	},
+	{
+		"id": 14,
+		"name": "Montgomery Burns 'Mr. Burns'",
+		"image": "https://vignette.wikia.nocookie.net/simpsons/images/0/01/Gorillachest.jpg/revision/latest/scale-to-width-down/185?cb=20170323124505",
+		"clickedon": false
+	},
+	{
+		"id": 15,
+		"name": "Sideshow Bob",
+		"image": "https://vignette.wikia.nocookie.net/simpsons/images/1/14/S05e02_88.jpg/revision/latest/scale-to-width-down/185?cb=20170504022218",
+		"clickedon": false
+	},
+	{
+		"id": 16,
+		"name": "Abraham Simpson",
+		"image": "https://vignette.wikia.nocookie.net/simpsons/images/a/a2/8a396b1fbdbefcfc6b7b80d578f0e666.jpg/revision/latest/scale-to-width-down/185?cb=20130203191632",
+		"clickedon": false
+	}
+]
